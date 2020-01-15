@@ -1,2 +1,2 @@
 # matplotlib-challenge
-matplotlib-challenge HW
+matplotlib-challenge
